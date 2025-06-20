@@ -6,7 +6,7 @@
 **Date:** [May, 2025]
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 This project involved conducting a customer segmentation and value analysis for Sprocket Central Pty Ltd, with the goal of informing marketing and growth strategies. Using sales and customer data, I developed a dashboard that highlights:
 
@@ -150,14 +150,14 @@ To translate insights into action, the following marketing strategy is recommend
 
 ##  Files in This Repo
 
-- [**docs/Data_Cleaning_Summary.pdf**](docs/Sprocket_Data cleaning report.pdf)  
+- [**Sprocket_Data cleaning report.pdf**](docs/Sprocket_Data cleaning report.pdf)  
   Detailed documentation of the data cleaning and preparation process, including handling of missing values, data transformations, and formatting for analysis.
 
-- [**docs/Project_Report.pdf**](docs/Sprocket Analysis Report.pdf)
+- [**Sprocket Analysis Report.pdf**](docs/Sprocket Analysis Report.pdf)
   The full analysis report outlining business context, key insights, segmentation findings, and strategic recommendations for Sprocket Central Pty Ltd.
 
-- [**dashboard/Sprocket_Dashboard.pbix**](dashboard/Sprocket_PowerBI Dashboard.pbix) (dashboard/Sprocket_PowerBI Dashboard.pdf)
+- [**Sprocket_PowerBI Dashboard.pdf**](dashboard/Sprocket_PowerBI Dashboard.pdf) 
   Power BI file containing the interactive dashboard with three tabs: Sales Performance, Customer Segmentation, and Geographic Opportunities.
 
-- [**outputs/target_customer_list.xlsx**](outputs/Sprocket Customer recommendation list.xlsx)
+- [**Sprocket Customer recommendation list.xlsx**](outputs/Sprocket Customer recommendation list.xlsx)
   A curated list of high-value potential customers identified from the analysis — ideal for targeted marketing campaigns or sales outreach.
