@@ -1,9 +1,9 @@
 # Sprocket Central Pty Ltd - Customer Value & Growth Dashboard
 
 **Project Type:** Business Data Analysis & Dashboard Presentation  
-**Tool Used:** [Excel & Power BI]  
+**Tool Used:** Excel & Power BI 
 **Views:** 3 Interactive Dashboard Tabs  
-**Date:** [May, 2025]
+**Date:** May, 2025
 ---
 
 ## Project Overview
