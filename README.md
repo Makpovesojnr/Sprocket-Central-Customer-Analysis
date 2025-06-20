@@ -150,14 +150,14 @@ To translate insights into action, the following marketing strategy is recommend
 
 ##  Files in This Repo
 
-- [**Sprocket_Data cleaning report.pdf**](docs/Sprocket_Data cleaning report.pdf)  
+- [**Sprocket_Data cleaning report**](docs/Sprocket_Data cleaning report.pdf)  
   Detailed documentation of the data cleaning and preparation process, including handling of missing values, data transformations, and formatting for analysis.
 
-- [**Sprocket Analysis Report.pdf**](docs/Sprocket Analysis Report.pdf)
+- [**Sprocket Analysis Report**](docs/Sprocket Analysis Report.pdf)
   The full analysis report outlining business context, key insights, segmentation findings, and strategic recommendations for Sprocket Central Pty Ltd.
 
-- [**Sprocket_PowerBI Dashboard.pdf**](dashboard/Sprocket_PowerBI Dashboard.pdf) 
+- [**Sprocket_PowerBI Dashboard**](dashboard/Sprocket_PowerBI Dashboard.pdf) 
   Power BI file containing the interactive dashboard with three tabs: Sales Performance, Customer Segmentation, and Geographic Opportunities.
 
-- [**Sprocket Customer recommendation list.xlsx**](outputs/Sprocket Customer recommendation list.xlsx)
+- [**Sprocket Customer recommendation list**](outputs/Sprocket Customer recommendation list.xlsx)
   A curated list of high-value potential customers identified from the analysis — ideal for targeted marketing campaigns or sales outreach.
